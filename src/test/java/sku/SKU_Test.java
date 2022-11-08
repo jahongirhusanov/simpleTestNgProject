@@ -1,4 +1,4 @@
-package api_project.scratchpay;
+package sku;
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;

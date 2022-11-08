@@ -6,12 +6,12 @@
     <groups>
     </groups>
     <test started-at="2022-09-11T13:37:33 CDT" name="Default test" finished-at="2022-09-11T13:37:36 CDT" duration-ms="3024">
-      <class name="api_project.scratchpay.Test1">
-        <test-method signature="test()[pri:0, instance:api_project.scratchpay.Test1@5a45133e]" started-at="2022-09-11T13:37:33 CDT" name="test" finished-at="2022-09-11T13:37:36 CDT" duration-ms="2927" status="PASS">
+      <class name="sku.Test1">
+        <test-method signature="test()[pri:0, instance:sku.Test1@5a45133e]" started-at="2022-09-11T13:37:33 CDT" name="test" finished-at="2022-09-11T13:37:36 CDT" duration-ms="2927" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- api_project.scratchpay.Test1 -->
+      </class> <!-- sku.Test1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
